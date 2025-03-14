@@ -21,6 +21,7 @@ console.log(bool);
 const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'; // NON MODIFICARE QUESTA RIGA
 const firstName = 'Jane'; // NON MODIFICARE QUESTA RIGA
 const lastName = 'Smith'; // NON MODIFICARE QUESTA RIGA
+console.log(firstName + ' ' + lastName); // Output: "Jane Smith"
 
 const fullName = null;
 console.log(fullName); // Output: "Jane Smith"
